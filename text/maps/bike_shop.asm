@@ -17,35 +17,35 @@ _BikeShopText_1d81a:: ; 98e67 (26:4e67)
 	prompt
 
 _BikeShopText_1d81f:: ; 98e83 (26:4e83)
-	text "Oh, that's..."
+	text "הו, זה..."
 
-	para "A BIKE VOUCHER!"
+	para "שובר לאופניים!"
 
-	para "OK! Here you go!"
+	para "אוקיי! הנה!"
 	prompt
 
 _BikeShopText_1d824:: ; 98eb2 (26:4eb2)
-	text $52, " exchanged"
-	line "the BIKE VOUCHER"
-	cont "for a BICYCLE.@@"
+	text $52, " הופקד"
+	line "השובר לאופניים"
+	cont "בשביל אופניים.@@"
 
 _BikeShopText_1d82a:: ; 98ee0 (26:4ee0)
-	text "Come back again"
-	line "some time!"
+	text "תחזור שנית!"
+	line "בהזדמנות!"
 	done
 
 _BikeShopText_1d82f:: ; 98efc (26:4efc)
-	text "How do you like"
-	line "your new BICYCLE?"
+	text "האם אתה אוהב"
+	line "את אופנייך החדשים?"
 
-	para "You can take it"
-	line "on CYCLING ROAD"
-	cont "and in caves!"
+	para "אתה יכול לרכב"
+	line " CYCLING ROADב"
+	cont "ובמערות!"
 	done
 
 _BikeShopText_1d834:: ; 98f4d (26:4f4d)
-	text "You better make"
-	line "room for this!"
+	text "כדאי לך לפנות"
+	line "מקום בשביל זה!"
 	done
 
 _BikeShopText_1d843:: ; 98f6d (26:4f6d) female
@@ -58,13 +58,13 @@ _BikeShopText_1d843:: ; 98f6d (26:4f6d) female
 	done
 
 _BikeShopText_1d85c:: ; 98fc1 (26:4fc1)
-	text "These BIKEs are"
-	line "cool, but they're"
-	cont "way expensive!"
+	text "האופניים האלה"
+	line "מגניבות, אבל המחיר"
+	cont "מופקע לחלוטין!"
 	done
 
 _BikeShopText_1d861:: ; 98ff2 (26:4ff2)
-	text "Wow. Your BIKE is"
-	line "really cool!"
+	text "וואו! האופניים שלך"
+	line "ממש מגניבות!"
 	done
 
